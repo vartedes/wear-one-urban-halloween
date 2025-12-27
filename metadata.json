@@ -1,0 +1,7 @@
+{
+  "name": "Wear One - Urban Halloween Edition",
+  "description": "A high-end urban streetwear ecommerce application featuring a dark aesthetic, loyalty rewards, and AI-powered style recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
